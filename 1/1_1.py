@@ -15,6 +15,6 @@ sorted_list2 = np.sort(list2)
 
 total_distance = np.sum(np.abs(sorted_list2 - sorted_list1))
 
-print("List 1:", sorted_list1)
-print("List 2:", sorted_list2)
+#print("List 1:", sorted_list1)
+#print("List 2:", sorted_list2)
 print("Total distance: ", total_distance)
